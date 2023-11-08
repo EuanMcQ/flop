@@ -1,0 +1,20 @@
+# Ignore compiled files
+*.o
+*.out
+*.exe
+
+# Ignore build directories
+build/
+bin/
+target/
+dist/
+out/
+
+# Ignore temporary files
+*~
+
+# Ignore IDE and text editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
